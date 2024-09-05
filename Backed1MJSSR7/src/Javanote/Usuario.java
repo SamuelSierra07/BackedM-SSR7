@@ -15,7 +15,7 @@ public class Usuario {
 
 
     Scanner sc = new Scanner(System.in);
-    
+
 
 
 
